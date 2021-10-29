@@ -12,11 +12,19 @@ We also utilized Bootstrap and CSS to stylize our website and to make it visuall
 
 The final website is intuitive and easy to use. Upon navigating to the site, the user is greeted by the home page, which includes the table containing all of the data discussed above (unfiltered):
 
+![alt text](https://github.com/lstanczyk90/UFOs/blob/c2d63889f5d60de566a5a11ffe7d769fe1f5636e/static/images/Website-Home-Page.PNG)
+
 If the user desires to filter the data, it is as simple as entering the desired data into the "Filter Search" fields. NOTE: there are placeholders that pre-populate the fields that serve to demonstrate the format of the searchable values. The user MUST follow this format in his or her searches (including case sensitivity): 
+
+![alt text](https://github.com/lstanczyk90/UFOs/blob/c2d63889f5d60de566a5a11ffe7d769fe1f5636e/static/images/CA-Search.PNG)
 
 The user also has the ability to add multiple filters simultaneously, and the resulting table will only output results that match of these filters. In the below example, we have searched for sightings in California that took place on January 1, 2010, and were identified as lights:
 
+![alt text](https://github.com/lstanczyk90/UFOs/blob/c2d63889f5d60de566a5a11ffe7d769fe1f5636e/static/images/Granular-Search.PNG)
+
 If the user wishes to clear the filters, the user can simply click "UFO Sightings" on the top of the homepage to default to the origial unflitered view:
+
+![alt text](https://github.com/lstanczyk90/UFOs/blob/c2d63889f5d60de566a5a11ffe7d769fe1f5636e/static/images/Reset.PNG)
 
 ## Summary
 
